@@ -13,8 +13,8 @@ Sebuah repository untuk assignment project "Magnetize" dari [DILo Game Academy](
 Dikembangkan oleh Brian Wijaya.
 
 ## Screenshots
-![alt text]("Screenshot 1")
-![alt text]("Screenshot 2")
+![alt text](https://github.com/briannzw/github-magnetize/blob/master/Screenshots/Screenshot%201.png "Screenshot 1")
+![alt text](https://github.com/briannzw/github-magnetize/blob/master/Screenshots/Screenshot%202.png "Screenshot 2")
 	
 ## Technologies
 Project is created with:
